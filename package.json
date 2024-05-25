@@ -1,13 +1,13 @@
 {
-  "name": "js-react-portfolio",
+  "name": "react-js-portfolio",
   "version": "1.0.0",
   "description": "JS React Portfolio",
   "source": "src/index.html",
-  "homepage": "https://aaryavikasboya.github.io/js-react-portfolio",
+  "homepage": "https://aaryavikasboya.github.io/react-js-portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://aaryavikasboya.github.io/js-react-portfolio'",
+    "build-gh": "parcel build --public-url 'https://aaryavikasboya.github.io/react-js-portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
