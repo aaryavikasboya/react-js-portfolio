@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Clone of Netflix ",
     description: "I have created a clone of netllix, using HTML,CSS and basics of JavaScript.",
-    url: "../images/netflix clone.JPG",
+    url: "../images/netflix-clone.JPG",
   },
   {
     title: "AI healthcare chatbot using NLP ",
