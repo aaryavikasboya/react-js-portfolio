@@ -44,7 +44,7 @@ const projectList = [
   {
     title: "AI healthcare chatbot using NLP ",
     description: "I Have done this project for my college mini project",
-    url: "../images/Health-Chatbot.JPG",
+    url: "../images/Healthcare-Chatbot.JPG",
   },
 ];
 
